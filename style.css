@@ -1,0 +1,22 @@
+body {
+  background-color: #F5F1EA;
+  color: #442B37;
+}
+
+h2 {
+  color: #818181;
+  margin-bottom: 30px;
+}
+
+nav a {
+  color: #442B37;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #0C7D96;
+}
+
+.row {
+  margin-bottom: 20px;
+}
